@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/formtask/static/css/main.ce810e30.css",
+    "main.js": "/formtask/static/js/main.190e221d.js",
+    "index.html": "/formtask/index.html",
+    "main.ce810e30.css.map": "/formtask/static/css/main.ce810e30.css.map",
+    "main.190e221d.js.map": "/formtask/static/js/main.190e221d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce810e30.css",
+    "static/js/main.190e221d.js"
+  ]
+}
